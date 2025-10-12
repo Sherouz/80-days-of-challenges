@@ -39,14 +39,13 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 
 ## 📈 Progress Tracker
 
-| #   | Challenge              | Level                 | Status |
-| --- | ---------------------- | --------------------  | ------ |
-| 1   | Reverse a string       | Beginner              | ✅     |
-| 2   | Remove duplicates      | Beginner              | ✅     |
-| 3   | Prime number checker   | Beginner-Intermediate | 🟡     |
-| ... | ...                    | ...                   | ...    |
-| 20  | Small knapsack problem | Intermediate          | ⬜     |
-
+| #   | Challenge              | Level                 | Status           | Date Completed |
+| --- | ---------------------- | --------------------- | ---------------- | -------------- |
+| 1   | Reverse a string       | Beginner              | ✅ Completed     | 12 Oct 2025    |
+| 2   | Remove duplicates      | Beginner              | ⏳️ In Progress |                |
+| 3   | Prime number checker   | Beginner-Intermediate | 🕓 Planned       |                |
+| ... | ...                    | ...                   | ...              |                |
+| 20  | Small knapsack problem | Intermediate          | ⛔ Not Started   |                |
 
 ---
 
@@ -70,8 +69,7 @@ python scripts/string_reverse.py
 
 ## 🔗 Follow Along
 
-Stay updated with the 80 Days of Challenges progress on Twitter:  
-[![Follow @Shahrouzlogs](https://img.shields.io/twitter/follow/Shahrouzlogs?style=social)](https://x.com/Shahrouzlogs)
+Stay updated with the 80 Days of Challenges progress on Twitter: [Shahrouz](https://x.com/Shahrouzlogs/)
 
 Updates and mini insights will be shared using the hashtag: `#80DaysOfChallenges`
 
