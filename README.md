@@ -43,7 +43,8 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | --- | ---------------------- | --------------------- | -------------- | -------------- |
 | 1   | Reverse a string       | Beginner              | ✅ Completed   | 12 Oct 2025    |
 | 2   | Remove duplicates      | Beginner              | ✅ Completed   | 13 Oct 2025    |
-| 3   | Prime number checker   | Beginner-Intermediate | 🕓 Planned     |                |
+| 3   | Count characters       | Beginner              | ✅ Completed   | 14 Oct 2025    |
+| 4   | Prime number checker   | Beginner-Intermediate | 🕓 Planned     |                |
 | ... | ...                    | ...                   | ...            |                |
 | 20  | Small knapsack problem | Intermediate          | ⛔ Not Started |                |
 
