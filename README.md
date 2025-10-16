@@ -39,16 +39,18 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 
 ## 📈 Progress Tracker
 
-| #   | Challenge              | Level                 | Status         | Date Completed |
-| --- | ---------------------- | --------------------- | -------------- | -------------- |
-| 1   | Reverse a string       | Beginner              | ✅ Completed   | 12 Oct 2025    |
-| 2   | Remove duplicates      | Beginner              | ✅ Completed   | 13 Oct 2025    |
-| 3   | Count characters       | Beginner              | ✅ Completed   | 14 Oct 2025    |
-| 4   | Prime number checker   | Beginner-Intermediate | ✅ Completed   | 15 Oct 2025    |
-| 5   | Factorial of a number  | Beginner-Intermediate | 🕓 Planned     |                |
-| 6   | Reverse the string     | Beginner              | 🕓 Planned     |                |
-| ... | ...                    | ...                   | ...             |                |
-| 20  | Small knapsack problem | Intermediate          | ⛔ Not Started |                |
+| #   | Challenge                  | Level                 | Status         | Date Completed |
+| --- | ---------------------------| --------------------- | -------------- | -------------- |
+| 1   | Reverse a string           | Beginner              | ✅ Completed   | 12 Oct 2025    |
+| 2   | Remove duplicates          | Beginner              | ✅ Completed   | 13 Oct 2025    |
+| 3   | Count characters           | Beginner              | ✅ Completed   | 14 Oct 2025    |
+| 4   | Prime number checker       | Beginner-Intermediate | ✅ Completed   | 15 Oct 2025    |
+| 5   | Factorial of a number      | Beginner-Intermediate | ✅ Completed   | 16 Oct 2025    |
+| 6   | Reverse the string         | Beginner              | 🕓 Planned     |                |
+| 7   | Finding missing number     | Beginner              | 🕓 Planned     |                |
+| 8   | Elevator button floor game | Beginner              | 🕓 Planned     |                |
+| ... | ...                        | ...                   | ...             |                |
+| 20  | Small knapsack problem     | Intermediate          | ⛔ Not Started |                |
 
 ---
 
@@ -67,14 +69,25 @@ python scripts/string_reverse.py
 ```
 
 3. Modify or try different approaches for practice.
+4. **Elevator game example:**
 
+```bash
+python scripts/elevator_game.py
+```
+
+* Follow the prompts or check the function `calculate_floor` for logic practice.
+* Beginners: try easier floors first. Intermediate: challenge yourself with harder logic.
 ---
 
 ## 🔗 Follow Along
 
-Stay updated with the 80 Days of Challenges progress on Twitter: [Shahrouz](https://x.com/Shahrouzlogs/)
+Stay updated with the 80 Days of Challenges:
 
-Updates and mini insights will be shared using the hashtag: `#80DaysOfChallenges`
+- Twitter: [@Shahrouzlogs](https://x.com/Shahrouzlogs/)
+- Dev.to: [Shahrouz Nikseresht](https://dev.to/shahrouzlogs/)
+
+Daily updates, mini insights, and challenge solutions will be shared with `#80DaysOfChallenges`.  
+Share your own solutions and join the discussion! 🚀
 
 ---
 
