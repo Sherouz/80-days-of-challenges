@@ -46,9 +46,8 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 3   | Count characters           | Beginner              | ✅ Completed   | 14 Oct 2025    |
 | 4   | Prime number checker       | Beginner-Intermediate | ✅ Completed   | 15 Oct 2025    |
 | 5   | Factorial of a number      | Beginner-Intermediate | ✅ Completed   | 16 Oct 2025    |
-| 6   | Reverse the string         | Beginner              | 🕓 Planned     |                |
-| 7   | Finding missing number     | Beginner              | 🕓 Planned     |                |
-| 8   | Elevator button floor game | Beginner              | 🕓 Planned     |                |
+| 6   | Finding missing number     | Beginner              | ✅ Completed   | 17 Oct 2025    |
+| 7   | Elevator button floor game | Beginner              | 🕓 Planned     |                |
 | ... | ...                        | ...                   | ...             |                |
 | 20  | Small knapsack problem     | Intermediate          | ⛔ Not Started |                |
 
