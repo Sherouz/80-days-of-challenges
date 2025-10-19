@@ -48,7 +48,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 5   | Factorial of a number      | Beginner-Intermediate | ✅ Completed   | 16 Oct 2025    |
 | 6   | Finding missing number     | Beginner              | ✅ Completed   | 17 Oct 2025    |
 | 7   | Elevator button floor game | Beginner              | ✅ Completed   | 18 Oct 2025    |
-| 8   | Finding longest word       | Beginner              | 🕓 Planned     |                |
+| 8   | Finding longest word       | Beginner              | ✅ Completed   | 19 Oct 2025    |
 | ... | ...                        | ...                   | ...             |                |
 | 20  | Small knapsack problem     | Intermediate          | ⛔ Not Started |                |
 
