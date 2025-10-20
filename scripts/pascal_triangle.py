@@ -61,6 +61,11 @@ def get_pascal_value(row: int, col: int) -> int:
 
 
 def main():
+    """
+    Run the Pascal's Triangle program.
+    Handles user input, prints the triangle,
+    and demonstrates fetching a specific value.
+    """
     try:
         # Get user input with a hint
         n = int(input("Enter the number of rows (recommended: 1–20): ").strip())
