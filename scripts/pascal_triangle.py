@@ -82,7 +82,7 @@ def main():
 
             # Optional demonstration: quick test for specific value
             print("\nExample:")
-            r, c = 5, 2   #
+            r, c = 5, 2   
             print(f"Value at row {r}, column {c}: {get_pascal_value(r, c)}")
 
     except ValueError:
