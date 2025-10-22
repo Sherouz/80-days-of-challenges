@@ -51,6 +51,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 8    | Finding longest word       | Beginner              | ✅ Completed   | 19 Oct 2025    |
 | 9    | Pascal's Triangle          | Beginner-Intermediate | ✅ Completed   | 20 Oct 2025    |
 | 10   | Area of circle             | Beginner              | ✅ Completed   | 21 Oct 2025    |
+| 11   | Numbers divisible by 8     | Beginner              | ✅ Completed   | 22 Oct 2025    |
 | ...  | ...                        | ...                   | ...             |                |
 | 20   | Small knapsack problem     | Intermediate          | ⛔ Not Started |                |
 
