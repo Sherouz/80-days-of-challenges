@@ -39,22 +39,22 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 
 ## 📈 Progress Tracker
 
-| #    | Challenge                     | Level                 | Status         | Date Completed |
-| ---- | ------------------------------| --------------------- | -------------- | -------------- |
-| 1    | Reverse a string              | Beginner              | ✅ Completed   | 12 Oct 2025    |
-| 2    | Remove duplicates             | Beginner              | ✅ Completed   | 13 Oct 2025    |
-| 3    | Count characters              | Beginner              | ✅ Completed   | 14 Oct 2025    |
-| 4    | Prime number checker          | Beginner-Intermediate | ✅ Completed   | 15 Oct 2025    |
-| 5    | Factorial of a number         | Beginner-Intermediate | ✅ Completed   | 16 Oct 2025    |
-| 6    | Finding missing number        | Beginner              | ✅ Completed   | 17 Oct 2025    |
-| 7    | Elevator button floor game    | Beginner              | ✅ Completed   | 18 Oct 2025    |
-| 8    | Finding longest word          | Beginner              | ✅ Completed   | 19 Oct 2025    |
-| 9    | Pascal's Triangle             | Beginner-Intermediate | ✅ Completed   | 20 Oct 2025    |
-| 10   | Area of circle                | Beginner              | ✅ Completed   | 21 Oct 2025    |
-| 11   | Numbers divisible by 8        | Beginner              | ✅ Completed   | 22 Oct 2025    |
-| 12   | Finding longest word (no len) | Beginner              | ✅ Completed   | 23 Oct 2025    |
-| ...  | ...                           | ...                   | ...             |                |
-| 20   | Small knapsack problem        | Intermediate          | ⛔ Not Started |                |
+| #       | Challenge                      | Level                 | Status           | Date Completed   | Link                                                                     |
+| :-----: | :----------------------------: | :-------------------: | :--------------: | :--------------: | :----------------------------------------------------------------------: |
+| 1       | Reverse a string               | Beginner              | ✅ Completed    | 12 Oct 2025      | [string_reverse.py](scripts/string_reverse.py)                           |
+| 2       | Remove duplicates              | Beginner              | ✅ Completed    | 13 Oct 2025      | [remove_duplicates.py](scripts/remove_duplicates.py)                     |
+| 3       | Count characters               | Beginner              | ✅ Completed    | 14 Oct 2025      | [count_characters.py](scripts/count_characters.py)                       |
+| 4       | Prime number checker           | Beginner-Intermediate | ✅ Completed    | 15 Oct 2025      | [prime_numbers.py](scripts/prime_numbers.py)                             |
+| 5       | Factorial of a number          | Beginner-Intermediate | ✅ Completed    | 16 Oct 2025      | [factorial_calculation.py](scripts/factorial_calculation.py)             |
+| 6       | Finding missing number         | Beginner              | ✅ Completed    | 17 Oct 2025      | [missing_number_in_sequence.py](scripts/missing_number_in_sequence.py)   |
+| 7       | Elevator button floor game     | Beginner              | ✅ Completed    | 18 Oct 2025      | [elevator_game.py](scripts/elevator_game.py)                             |
+| 8       | Finding longest word           | Beginner              | ✅ Completed    | 19 Oct 2025      | [longest_word.py](scripts/longest_word.py)                               |
+| 9       | Pascal's Triangle              | Beginner-Intermediate | ✅ Completed    | 20 Oct 2025      | [pascal_triangle.py](scripts/pascal_triangle.py)                         |
+| 10      | Area of circle                 | Beginner              | ✅ Completed    | 21 Oct 2025      | [circle_area.py](scripts/circle_area.py)                                 |
+| 11      | Numbers divisible by 8         | Beginner              | ✅ Completed    | 22 Oct 2025      | [divisible_by_eight.py](scripts/divisible_by_eight.py)                   |
+| 12      | Finding longest word (no len)  | Beginner              | ✅ Completed    | 23 Oct 2025      | [longest_word_without_len.py](scripts/longest_word_without_len.py)       |
+| ...     | ...                            | ...                   | ...              | ...              | ...                                                                      |
+| 20      | Small knapsack problem         | Intermediate          | ⛔ Not Started  |                  |                                                                           |
 
 ---
 
