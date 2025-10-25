@@ -54,6 +54,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 11      | Numbers divisible by 8         | Beginner              | ✅ Completed    | 22 Oct 2025      | [Click here](scripts/divisible_by_eight.py)           |
 | 12      | Finding longest word (no len)  | Beginner              | ✅ Completed    | 23 Oct 2025      | [Click here](scripts/longest_word_without_len.py)     |
 | 13      | Find the Common Friends        | Beginner              | ✅ Completed    | 24 Oct 2025      | [Click here](scripts/common_friends.py)               |
+| 14      | Calculate statistics           | Beginner-Intermediate | ✅ Completed    | 25 Oct 2025      | [Click here](scripts/calculate_statistics.py)         |
 | ...     | ...                            | ...                   | ...              | ...              | ...                                                   |
 | 20      | Small knapsack problem         | Intermediate          | ⛔ Not Started  |                  |                                                        |
 
