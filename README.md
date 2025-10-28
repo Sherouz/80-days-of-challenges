@@ -57,6 +57,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 14      | Calculate statistics           | Beginner-Intermediate | ✅ Completed    | 25 Oct 2025      | [Click here](scripts/calculate_statistics.py)         |
 | 15      | Average expenses per semester  | Beginner-Intermediate | ✅ Completed    | 26 Oct 2025      | [Click here](scripts/semester_expenses.py)            |
 | 16      | Find and display classmates    | Intermediate          | ✅ Completed    | 27 Oct 2025      | [Click here](scripts/classmates_report.py)            |
+| 17      | Numeric to Letter Grade        | Beginner-Intermediate | ✅ Completed    | 28 Oct 2025      | [Click here](scripts/grade_converter.py)              |
 | ...     | ...                            | ...                   | ...              | ...              | ...                                                   |
 | 20      | Small knapsack problem         | Intermediate          | ⛔ Not Started  |                  |                                                        |
 
