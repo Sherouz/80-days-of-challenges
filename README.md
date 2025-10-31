@@ -60,8 +60,9 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 17  |    Numeric to Letter Grade    | Beginner-Intermediate |  ✅ Completed  |  28 Oct 2025  |      [Click here](scripts/grade_converter.py)       |
 | 18  | Palindrome checker            | Beginner              |  ✅ Completed  |  29 Oct 2025  |      [Click here](scripts/palindrome.py)            |
 | 19  | Count vowels in text          | Beginner              |  ✅ Completed  |  30 Oct 2025  | [Click here](scripts/vowels_counter.py)             |
+| 20  |    Small knapsack problem     |     Intermediate      | ✅ Completed   |  31 Oct 2025  | [Click here](scripts/small_knapsack_problem)        |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
-| 20  |    Small knapsack problem     |     Intermediate      | ⛔ Not Started |                |                                                    |
+| 21  | Turn-based FizzBuzz game      | Beginner/Intermediat  | ⛔ Not Started |                |                                                    |
 
 ---
 
