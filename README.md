@@ -58,11 +58,11 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 15  | Average expenses per semester | Beginner-Intermediate |  ✅ Completed  |  26 Oct 2025  |     [Click here](scripts/semester_expenses.py)      |
 | 16  |  Find and display classmates  |     Intermediate      |  ✅ Completed  |  27 Oct 2025  |     [Click here](scripts/classmates_report.py)      |
 | 17  |    Numeric to Letter Grade    | Beginner-Intermediate |  ✅ Completed  |  28 Oct 2025  |      [Click here](scripts/grade_converter.py)       |
-| 18  | Palindrome checker            | Beginner              |  ✅ Completed  |  29 Oct 2025  |      [Click here](scripts/palindrome.py)            |
-| 19  | Count vowels in text          | Beginner              |  ✅ Completed  |  30 Oct 2025  | [Click here](scripts/vowels_counter.py)             |
-| 20  |    Small knapsack problem     |     Intermediate      | ✅ Completed   |  31 Oct 2025  | [Click here](scripts/small_knapsack_problem.py)        |
+| 18  | Palindrome checker            |       Beginner        |  ✅ Completed  |  29 Oct 2025  |      [Click here](scripts/palindrome.py)            |
+| 19  | Count vowels in text          |       Beginner        |  ✅ Completed  |  30 Oct 2025  | [Click here](scripts/vowels_counter.py)             |
+| 20  |    Small knapsack problem     |     Intermediate      |  ✅ Completed  |  31 Oct 2025  | [Click here](scripts/small_knapsack_problem.py)     |
+| 21  | Turn-based FizzBuzz game      | Beginner-Intermediate |  ✅ Completed  |  01 Nov 2025  | [Click here](scripts/fizzbuzz_game.py)              |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
-| 21  | Turn-based FizzBuzz game      | Beginner/Intermediat  | ⛔ Not Started |                |                                                    |
 
 ---
 
@@ -110,4 +110,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Last updated: Oct 2025*
+*Last updated: Nov 2025*
