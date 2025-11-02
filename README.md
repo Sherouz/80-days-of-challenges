@@ -62,6 +62,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 19  | Count vowels in text          |       Beginner        |  ✅ Completed  |  30 Oct 2025  | [Click here](scripts/vowels_counter.py)             |
 | 20  |    Small knapsack problem     |     Intermediate      |  ✅ Completed  |  31 Oct 2025  | [Click here](scripts/small_knapsack_problem.py)     |
 | 21  | Turn-based FizzBuzz game      | Beginner-Intermediate |  ✅ Completed  |  01 Nov 2025  | [Click here](scripts/fizzbuzz_game.py)              |
+| 22  | Count even and odd numbers    |       Beginner        |  ✅ Completed  |  02 Nov 2025  | [Click here](scripts/count_even_odd.py)             |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
 
 ---
