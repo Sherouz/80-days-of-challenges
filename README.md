@@ -64,6 +64,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 21  | Turn-based FizzBuzz game      | Beginner-Intermediate |  ✅ Completed  |  01 Nov 2025  | [Click here](scripts/fizzbuzz_game.py)              |
 | 22  | Count even and odd numbers    |       Beginner        |  ✅ Completed  |  02 Nov 2025  | [Click here](scripts/count_even_odd.py)             |
 | 23  |   Sum of positive numbers     |       Beginner        |  ✅ Completed  |  03 Nov 2025  | [Click here](scripts/sum_of_positives.py)           |
+| 24  | Countdown with "Boom"         |       Beginner        |  ✅ Completed  |  04 Nov 2025  | [Click here](scripts/countdown_and_boom.py)         |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
 
 ---
