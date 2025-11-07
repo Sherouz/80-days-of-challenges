@@ -67,6 +67,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 24  | Countdown with "Boom"         |       Beginner        |  ✅ Completed  |  04 Nov 2025  | [Click here](scripts/countdown_and_boom.py)         |
 | 25  | Coin flip guessing game       |       Beginner        |  ✅ Completed  |  05 Nov 2025  | [Click here](scripts/coin_flip_game.py)             |
 | 26  | Sort library by pages         |       Beginner        |  ✅ Completed  |  06 Nov 2025  | [Click here](scripts/sort_library_by_pages.py)      |
+| 27  | Most frequent element (Mode)  |       Beginner        |  ✅ Completed  |  07 Nov 2025  | [Click here](scripts/most_frequent_element.py)      |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
 
 ---
