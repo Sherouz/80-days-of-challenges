@@ -69,7 +69,8 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 26  | Sort library by pages         |       Beginner        |  ✅ Completed  |  06 Nov 2025  | [Click here](scripts/sort_library_by_pages.py)      |
 | 27  | Most frequent element (Mode)  |       Beginner        |  ✅ Completed  |  07 Nov 2025  | [Click here](scripts/most_frequent_element.py)      |
 | 28  | Bubble Sort algorithm         | Beginner-Intermediate |  ✅ Completed  |  08 Nov 2025  | [Click here](scripts/bubble_sort.py)                |
-| 29  | Strong password generator     | Beginner-Intermediate |  ✅ Completed  |  09 Nov 2025  | [Click here](scripts/strong_password_generator.py) |
+| 29  | Strong password generator     | Beginner-Intermediate |  ✅ Completed  |  09 Nov 2025  | [Click here](scripts/strong_password_generator.py)  |
+| 30  | Merge two lists               |       Beginner        |  ✅ Completed  |  10 Nov 2025  | [Click here](scripts/merge_two_lists.py)            |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
 
 ---
