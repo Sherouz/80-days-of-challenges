@@ -72,6 +72,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 29  | Strong password generator     | Beginner-Intermediate |  ✅ Completed  |  09 Nov 2025  | [Click here](scripts/strong_password_generator.py)  |
 | 30  | Merge two lists               |       Beginner        |  ✅ Completed  |  10 Nov 2025  | [Click here](scripts/merge_two_lists.py)            |
 | 31  | Rotate list elements          |       Beginner        |  ✅ Completed  |  11 Nov 2025  | [Click here](scripts/rotate_list.py)                |
+| 32  | Temp converter (C <-> F)      |       Beginner        |  ✅ Completed  |  12 Nov 2025  | [Click here](scripts/temperature_converter.py)      |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
 
 ---
