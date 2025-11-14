@@ -74,6 +74,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 31  | Rotate list elements          |       Beginner        |  ✅ Completed  |  11 Nov 2025  | [Click here](scripts/rotate_list.py)                |
 | 32  | Temp converter (C <-> F)      |       Beginner        |  ✅ Completed  |  12 Nov 2025  | [Click here](scripts/temperature_converter.py)      |
 | 33  | Sort by number of vowels      |       Beginner        |  ✅ Completed  |  13 Nov 2025  | [Click here](scripts/sort_by_vowels.py)             |
+| 34  | Balanced numbers filter       |   Intermediate        |  ✅ Completed  |  14 Nov 2025  | [Click here](scripts/filter_balanced_numbers.py)    |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
 
 ---
