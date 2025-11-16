@@ -76,6 +76,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 33  | Sort by number of vowels      | Beginner              | ✅ Completed   | 13 Nov 2025    | [Click here](scripts/sort_by_vowels.py)             |
 | 34  | Balanced numbers filter       | Intermediate          | ✅ Completed   | 14 Nov 2025    | [Click here](scripts/filter_balanced_numbers.py)    |
 | 35  | Simple Morse Code Generator   | Intermediate          | ✅ Completed   | 15 Nov 2025    | [Click here](scripts/morse_code_generator.py)       |
+| 36  | Integer Sequence              | Intermediate          | ✅ Completed   | 16 Nov 2025    | [Click here](scripts/integer_sequence.py)           |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
 
 ---
