@@ -80,6 +80,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 37  | Image Search (case-insensitive) | Beginner              | ✅ Completed   | 17 Nov 2025    | [Click here](scripts/image_search.py)               |
 | 38  | Extract domains from emails     | Beginner-Intermediate | ✅ Completed   | 18 Nov 2025    | [Click here](scripts/extract_domains.py)            |
 | 39  | Word Counter                    | Beginner              | ✅ Completed   | 19 Nov 2025    | [Click here](scripts/word_counter.py)               |
+| 40  | Armstrong numbers in range      | Intermediate          | ✅ Completed   | 20 Nov 2025    | [Click here](scripts/armstrong_numbers.py)          |
 | ... |              ...                |          ...          |      ...        |      ...       |                       ...                           |
 
 ---
