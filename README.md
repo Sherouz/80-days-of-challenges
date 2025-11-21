@@ -81,6 +81,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 38  | Extract domains from emails     | Beginner-Intermediate | ✅ Completed   | 18 Nov 2025    | [Click here](scripts/extract_domains.py)            |
 | 39  | Word Counter                    | Beginner              | ✅ Completed   | 19 Nov 2025    | [Click here](scripts/word_counter.py)               |
 | 40  | Armstrong numbers in range      | Intermediate          | ✅ Completed   | 20 Nov 2025    | [Click here](scripts/armstrong_numbers.py)          |
+| 41  | Happy Number Checker            | Intermediate          | ✅ Completed   | 21 Nov 2025    | [Click here](scripts/happy_number.py)               |
 | ... |              ...                |          ...          |      ...        |      ...       |                       ...                           |
 
 ---
