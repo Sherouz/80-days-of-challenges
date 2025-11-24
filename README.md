@@ -84,7 +84,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 41  | Happy Number Checker            | Intermediate          | ✅ Completed   | 21 Nov 2025    | [Click here](scripts/happy_number.py)               |
 | 42  | Roman <-> Integer Converter     | Intermediate          | ✅ Completed   | 22 Nov 2025    | [Click here](scripts/roman_converter.py)            |
 | 43  | Valid Parentheses Checker       | Intermediate          | ✅ Completed   | 23 Nov 2025    | [Click here](scripts/valid_parentheses.py)          |
-| 44  | Longest Substring No Repeats    | Intermediate          | ✅ Completed   | 23 Nov 2025    | [Click here](scripts/longest_substring.py)          |
+| 44  | Longest Substring No Repeats    | Intermediate          | ✅ Completed   | 24 Nov 2025    | [Click here](scripts/longest_substring.py)          |
 | ... |              ...                |          ...          |      ...        |      ...       |                       ...                           |
 
 ---
