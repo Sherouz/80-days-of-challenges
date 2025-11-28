@@ -88,6 +88,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 45  | Majority Element (Boyer-Moore)  | Intermediate          | ✅ Completed   | 25 Nov 2025    | [Click here](scripts/majority_element.py)           |
 | 46  | Simple Moving Average (SMA)     | Intermediate          | ✅ Completed   | 26 Nov 2025    | [Click here](scripts/moving_average.py)             |
 | 47  | Rotate Array                    | Intermediate          | ✅ Completed   | 27 Nov 2025    | [Click here](scripts/rotate_array.py)               |
+| 48  | Merge Two Sorted Lists          | Intermediate          | ✅ Completed   | 27 Nov 2025    | [Click here](scripts/merge_sorted_lists.py)         |
 | ... |              ...                |          ...          |      ...        |      ...       |                       ...                           |
 
 ---
