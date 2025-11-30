@@ -90,6 +90,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 47  | Rotate Array                     | Intermediate          | ✅ Completed   | 27 Nov 2025    | [Click here](scripts/rotate_array.py)               |
 | 48  | Merge Two Sorted Lists           | Intermediate          | ✅ Completed   | 28 Nov 2025    | [Click here](scripts/merge_sorted_lists.py)         |
 | 49  | Playlist Shuffler (Fisher-Yates) | Intermediate          | ✅ Completed   | 29 Nov 2025    | [Click here](scripts/playlist_shuffler.py)          |
+| 50  | Grouping Anagrams                | Intermediate          | ✅ Completed   | 30 Nov 2025    | [Click here](scripts/group_anagrams.py)             |
 | ... |              ...                 |          ...          |      ...        |      ...       |                       ...                           |
 
 ---
