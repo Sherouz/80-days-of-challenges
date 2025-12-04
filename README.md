@@ -94,6 +94,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 51  | First Non-Repeating Character    | Intermediate          | ✅ Completed   | 01 Dec 2025    | [Click here](scripts/first_unique_char.py)           |
 | 52  | Longest Increasing Subarray      | Intermediate          | ✅ Completed   | 02 Dec 2025    | [Click here](scripts/longest_increasing_subarray.py) |
 | 53  | Count Overlapping Substrings     | Intermediate          | ✅ Completed   | 03 Dec 2025    | [Click here](scripts/count_sub_overlaps.py)          |
+| 54  | Summary Ranges                   | Intermediate          | ✅ Completed   | 04 Dec 2025    | [Click here](scripts/summary_ranges.py)              |
 | ... |              ...                 |          ...          |      ...        |      ...       |                       ...                            |
 
 ---
