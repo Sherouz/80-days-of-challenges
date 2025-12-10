@@ -99,7 +99,8 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 56  | Fibonacci (Efficient)             | Intermediate          | ✅ Completed   | 06 Dec 2025    | [Click here](scripts/fibonacci.py)                   |
 | 57  | GCD & LCM (Euclid's Algorithm)    | Intermediate          | ✅ Completed   | 07 Dec 2025    | [Click here](scripts/euclidean_gcd.py)               |
 | 58  | Run-Length Encoding (RLE)         | Intermediate          | ✅ Completed   | 08 Dec 2025    | [Click here](scripts/run_length_encoding.py)         |
-| 59  | Reverse Linked List               | Intermediate          | ✅ Completed   | 09 Dec 2025    | [Click here](scripts/reverse_linked_list.py) |
+| 59  | Reverse Linked List               | Intermediate          | ✅ Completed   | 09 Dec 2025    | [Click here](scripts/reverse_linked_list.py)         |
+| 60  | Remove Nth Node From End          | Intermediate          | ✅ Completed   | 10 Dec 2025    | [Click here](scripts/remove_nth_from_end.py)         |
 | ... |              ...                  |          ...          |      ...        |      ...       |                       ...                            |
 
 ---
