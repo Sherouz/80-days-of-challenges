@@ -1,5 +1,5 @@
 # Challenge #61 - Intermediate
-# Queue via Two Stacks (Minimal Version)
+# Queue via Two Stacks
 # Objective: Implement a FIFO queue using two simple stack lists.
 
 """
