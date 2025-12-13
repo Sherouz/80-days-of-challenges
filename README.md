@@ -103,6 +103,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 60  | Remove Nth Node From End          | Intermediate          | ✅ Completed   | 10 Dec 2025    | [Click here](scripts/remove_nth_from_end.py)         |
 | 61  | Queue via Two Stacks              | Intermediate          | ✅ Completed   | 11 Dec 2025    | [Click here](scripts/queue_via_stacks.py)            |
 | 62  | Longest Subarray With Target Sum  | Intermediate          | ✅ Completed   | 12 Dec 2025    | [Click here](scripts/longest_subarray_target_sum.py) |
+| 63  | Merge K Sorted Lists              | Intermediate          | ✅ Completed   | 13 Dec 2025    | [Click here](scripts/merge_k_sorted_lists.py)        |
 | ... |              ...                  |          ...          |      ...        |      ...       |                       ...                            |
 
 ---
