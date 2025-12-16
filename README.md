@@ -106,6 +106,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 63  | Merge K Sorted Lists              | Intermediate          | ✅ Completed   | 13 Dec 2025    | [Click here](scripts/merge_k_sorted_lists.py)        |
 | 64  | Depth-First Search (DFS)          | Intermediate          | ✅ Completed   | 14 Dec 2025    | [Click here](scripts/dfs_tree.py)                    |
 | 65  | Breadth-First Search (BFS)        | Intermediate          | ✅ Completed   | 15 Dec 2025    | [Click here](scripts/bfs_tree.py)                    |
+| 66  | Invert Binary Tree                | Intermediate          | ✅ Completed   | 16 Dec 2025    | [Click here](scripts/invert_binary_tree.py)          |
 | ... |              ...                  |          ...          |      ...        |      ...       |                       ...                            |
 
 ---
