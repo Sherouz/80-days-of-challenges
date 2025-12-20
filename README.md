@@ -110,6 +110,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 67  | Shortest Path (BFS, Unweighted)   | Intermediate          | ✅ Completed   | 17 Dec 2025    | [Click here](scripts/shortest_path_bfs.py)           |
 | 68  | Unique Paths in Grid (DP)         | Intermediate          | ✅ Completed   | 18 Dec 2025    | [Click here](scripts/unique_paths_grid.py)           |
 | 69  | Conway’s Game of Life             | Intermediate          | ✅ Completed   | 19 Dec 2025    | [Click here](scripts/game_of_life.py)                |
+| 70  | Wildcard Character Matching       | Intermediate          | ✅ Completed   | 20 Dec 2025    | [Click here](scripts/wildcard_matching.py)           |
 | ... |              ...                  |          ...          |      ...        |      ...       |                       ...                            |
 
 ---
