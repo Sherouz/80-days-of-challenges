@@ -113,6 +113,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 70  | Wildcard Character Matching       | Intermediate          | ✅ Completed   | 20 Dec 2025    | [Click here](scripts/wildcard_matching.py)           |
 | 71  | Three Sum (Two Pointers)          | Intermediate          | ✅ Completed   | 21 Dec 2025    | [Click here](scripts/three_sum.py)                   |
 | 72  | Sliding Window Maximum            | Intermediate          | ✅ Completed   | 22 Dec 2025    | [Click here](scripts/sliding_window_max.py)          |
+| 73  | Longest Palindromic Substring     | Intermediate          | ✅ Completed   | 23 Dec 2025    | [Click here](scripts/longest_palindromic_substring.py) |
 | ... |              ...                  |          ...          |      ...        |      ...       |                       ...                            |
 
 ---
