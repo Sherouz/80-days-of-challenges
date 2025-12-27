@@ -117,6 +117,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 74  | Validate IPv4 Address             | Intermediate          | ✅ Completed   | 24 Dec 2025    | [Click here](scripts/validate_ipv4.py)                 |
 | 75  | Counting Sort by Zero Count       | Intermediate          | ✅ Completed   | 25 Dec 2025    | [Click here](scripts/counting_sort_by_zeros.py)        |
 | 76  | Binary Exponentiation (x^n)       | Intermediate          | ✅ Completed   | 26 Dec 2025    | [Click here](scripts/binary_exponentiation.py)         |
+| 77  | Trailing Zeros in Factorial       | Intermediate          | ✅ Completed   | 27 Dec 2025    | [Click here](scripts/trailing_zeros_factorial.py)      |
 | ... |              ...                  |          ...          |      ...        |      ...       |                       ...                              |
 
 ---
