@@ -1,7 +1,13 @@
-# 80 Days of Challenges 🐍
+# 80 Days of Python Challenges 🐍
 
-A personal Python challenge to improve my problem-solving and programming skills.
-Over 80 days, I complete small Python exercise (5–50 lines) to practice logic, algorithms, and Python basics.
+This challenge ran from October to December 2025 and is now complete.  
+For reflections on the journey (including how AI was used), check out the closing post:  
+[An Honest Wrap-Up of the 80-Day Challenge](https://dev.to/shahrouzlogs/80-days-of-python-challenges-an-honest-wrap-up-283c)
+
+The repo remains as a record of daily consistency and exposure to various problems.
+
+A personal Python challenge to improve my problem-solving and programming skills.  
+Over 80 days, I completed small Python exercises (5–50 lines) to practice logic, algorithms, and Python basics.
 
 ---
 
