@@ -120,6 +120,7 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 77  | Trailing Zeros in Factorial       | Intermediate          | ✅ Completed   | 27 Dec 2025    | [Click here](scripts/trailing_zeros_factorial.py)      |
 | 78  | Move Zeros to End                 | Intermediate          | ✅ Completed   | 28 Dec 2025    | [Click here](scripts/move_zeros.py)                    |
 | 79  | Deep Copy Graph                   | Intermediate          | ✅ Completed   | 29 Dec 2025    | [Click here](scripts/deep_copy_graph.py)               |
+| 80  | Search in Rotated Sorted Array    | Intermediate          | ✅ Completed   | 30 Dec 2025    | [Click here](scripts/search_rotated_array.py)          |
 | ... |              ...                  |          ...          |      ...        |      ...       |                       ...                              |
 
 ---
